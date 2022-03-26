@@ -14,18 +14,26 @@ def main():
 
     data = pd.read_excel(config.data_path)
     post_nodes = get_post_data(data)
-    user_nodes = get_user_data(data)
+    user_nodes, comment_nodes, comment_relations, reply_relations = get_user_data(data)
     post_relations = get_post_relations(data)
-
     # INSERT nodes:
-    for post_node in tqdm(post_nodes):
-        connector.insert_node(post_node)
+    # for post_node in tqdm(post_nodes):
+    #     connector.insert_node(post_node)
+    #
+    # for user_node in tqdm(user_nodes):
+    #     connector.insert_node(user_node)
 
-    for user_node in tqdm(user_nodes):
-        connector.insert_node(user_node)
+    for comment_node in tqdm(comment_nodes):
+        connector.insert_node(comment_node)
 
     for post_relation in tqdm(post_relations):
         connector.insert_relation(post_relation)
+
+    for comment_relation in tqdm(comment_relations):
+        connector.insert_comment_relation(comment_relation)
+
+    for react_relation in tqdm(reply_relations):
+        connector.insert_reply_relation(react_relation)
 
 
 if __name__ == "__main__":

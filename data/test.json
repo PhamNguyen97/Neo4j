@@ -1,0 +1,299 @@
+[
+  {
+    "comment_id": "2888362908052783",
+    "comment_url": "https://facebook.com/2888362908052783",
+    "commenter_id": "100047884942648",
+    "commenter_url": "https://facebook.com/profile.php?id=100047884942648&groupid=2754249271464148&refid=18&__tn__=R",
+    "commenter_name": "Nguyen Luong",
+    "commenter_meta": None,
+    "comment_text": "Xin báo gia\n\nCH: - CPU Ryzen 5 3600 New\n- Main MSI B450 Motar Max New\n- Ram Gskill Aegis 2x8GB/2666 New\n- VGA Asus Dual RX580 4GB bh 01/2021\n- Nguồn Sama ESP600W New\n- Vỏ Sama Jazovo Plus",
+    "comment_time": datetime.datetime(2021,
+    11,
+    25,
+    15,
+    40,
+    12),
+    "comment_image": "https://scontent.xx.fbcdn.net/m1/v/t6/An_UvxJXg9tdnLU3Y5qjPi0200MLilhzPXUgxzGjQzUMaNcmjdZA6anyrngvkdub33NZzZhd51fpCAEzNHFhko5aKRFP5fS1w_lKwYrzcNLupv27.png?ccb=10-5&oh=00_AT-ZQ1k-_YLmP-XEG8emAgnLPOwDuVx2Mw0o5KOrCLX-Ww&oe=621E7E39&_nc_sid=55e238",
+    "comment_reactors": [
+      {
+        "name": "Lê Tuấn",
+        "link": "https://facebook.com/profile.php?id=100010488366547&groupid=2754249271464148",
+        "type": "like"
+      },
+      {
+        "name": "Công Bảo",
+        "link": "https://facebook.com/bao.cong.14493?groupid=2754249271464148",
+        "type": "like"
+      }
+    ],
+    "comment_reactions": {
+      "like": 2
+    },
+    "comment_reaction_count": 2,
+    "replies": [
+      {
+        "comment_id": "2888419744713766",
+        "comment_url": "https://facebook.com/2888419744713766",
+        "commenter_id": "100031435562976",
+        "commenter_url": "https://facebook.com/bao.cong.14493?groupid=2754249271464148&__tn__=R",
+        "commenter_name": "Công Bảo",
+        "commenter_meta": None,
+        "comment_text": "Lev Tuấn Ngọc Nguyễn",
+        "comment_time": datetime.datetime(2021,
+        11,
+        25,
+        15,
+        40,
+        14),
+        "comment_image": "https://scontent.xx.fbcdn.net/m1/v/t6/An_UvxJXg9tdnLU3Y5qjPi0200MLilhzPXUgxzGjQzUMaNcmjdZA6anyrngvkdub33NZzZhd51fpCAEzNHFhko5aKRFP5fS1w_lKwYrzcNLupv27.png?ccb=10-5&oh=00_AT-ZQ1k-_YLmP-XEG8emAgnLPOwDuVx2Mw0o5KOrCLX-Ww&oe=621E7E39&_nc_sid=55e238",
+        "comment_reactors": [
+          {
+            "name": "Lê Tuấn",
+            "link": "https://facebook.com/profile.php?id=100010488366547&groupid=2754249271464148",
+            "type": "like"
+          },
+          {
+            "name": "Ngọc Nguyễn",
+            "link": "https://facebook.com/nngocminhan?groupid=2754249271464148",
+            "type": "love"
+          }
+        ],
+        "comment_reactions": {
+          "like": 1,
+          "love": 1
+        },
+        "comment_reaction_count": 2
+      },
+      {
+        "comment_id": "2888421391380268",
+        "comment_url": "https://facebook.com/2888421391380268",
+        "commenter_id": "100010488366547",
+        "commenter_url": "https://facebook.com/profile.php?id=100010488366547&groupid=2754249271464148&__tn__=R",
+        "commenter_name": "Lê Tuấn",
+        "commenter_meta": None,
+        "comment_text": "Nguyen Luong nhu cầu sử dụng của bác là gì ạ",
+        "comment_time": datetime.datetime(2021,
+        11,
+        25,
+        15,
+        40,
+        15),
+        "comment_image": None,
+        "comment_reactors": [],
+        "comment_reactions": None,
+        "comment_reaction_count": None
+      },
+      {
+        "comment_id": "2888441151378292",
+        "comment_url": "https://facebook.com/2888441151378292",
+        "commenter_id": "100047884942648",
+        "commenter_url": "https://facebook.com/profile.php?id=100047884942648&groupid=2754249271464148&__tn__=R",
+        "commenter_name": "Nguyen Luong",
+        "commenter_meta": None,
+        "comment_text": "Lev Tuấn minh can bao gia nhu tren thoi ak .",
+        "comment_time": datetime.datetime(2021,
+        11,
+        25,
+        15,
+        40,
+        15),
+        "comment_image": None,
+        "comment_reactors": [],
+        "comment_reactions": None,
+        "comment_reaction_count": None
+      },
+      {
+        "comment_id": "2888465304709210",
+        "comment_url": "https://facebook.com/2888465304709210",
+        "commenter_id": "100010488366547",
+        "commenter_url": "https://facebook.com/profile.php?id=100010488366547&groupid=2754249271464148&__tn__=R",
+        "commenter_name": "Lê Tuấn",
+        "commenter_meta": None,
+        "comment_text": "Nguyen Luong Dạ hiện tại mẫu RX580 4Gb gần như không có hàng bác ạ, và R5 3600 cũng khá khan hàng ạ",
+        "comment_time": datetime.datetime(2021,
+        11,
+        25,
+        15,
+        40,
+        15),
+        "comment_image": "https://scontent.xx.fbcdn.net/m1/v/t6/An_UvxJXg9tdnLU3Y5qjPi0200MLilhzPXUgxzGjQzUMaNcmjdZA6anyrngvkdub33NZzZhd51fpCAEzNHFhko5aKRFP5fS1w_lKwYrzcNLupv27.png?ccb=10-5&oh=00_AT-ZQ1k-_YLmP-XEG8emAgnLPOwDuVx2Mw0o5KOrCLX-Ww&oe=621E7E39&_nc_sid=55e238",
+        "comment_reactors": [
+          {
+            "name": "Nguyen Luong",
+            "link": "https://facebook.com/profile.php?id=100047884942648&groupid=2754249271464148",
+            "type": "like"
+          }
+        ],
+        "comment_reactions": {
+          "like": 1
+        },
+        "comment_reaction_count": 1
+      }
+    ]
+  },
+  {
+    "comment_id": "2850610671828007",
+    "comment_url": "https://facebook.com/2850610671828007",
+    "commenter_id": "100002839770975",
+    "commenter_url": "https://facebook.com/huy.mando?groupid=2754249271464148&refid=18&__tn__=R",
+    "commenter_name": "Mando Huy",
+    "commenter_meta": None,
+    "comment_text": "laptop mới quá",
+    "comment_time": datetime.datetime(2021,
+    9,
+    25,
+    15,
+    40,
+    17),
+    "comment_image": "https://scontent.xx.fbcdn.net/m1/v/t6/An_UvxJXg9tdnLU3Y5qjPi0200MLilhzPXUgxzGjQzUMaNcmjdZA6anyrngvkdub33NZzZhd51fpCAEzNHFhko5aKRFP5fS1w_lKwYrzcNLupv27.png?ccb=10-5&oh=00_AT-ZQ1k-_YLmP-XEG8emAgnLPOwDuVx2Mw0o5KOrCLX-Ww&oe=621E7E39&_nc_sid=55e238",
+    "comment_reactors": [
+      {
+        "name": "Duy Nam Vũ",
+        "link": "https://facebook.com/profile.php?id=100071534682559&groupid=2754249271464148",
+        "type": "like"
+      },
+      {
+        "name": "Lợi Nguyễn",
+        "link": "https://facebook.com/Lego.deviant?groupid=2754249271464148",
+        "type": "like"
+      }
+    ],
+    "comment_reactions": {
+      "like": 2
+    },
+    "comment_reaction_count": 2,
+    "replies": []
+  },
+  {
+    "comment_id": "2887161234839617",
+    "comment_url": "https://facebook.com/2887161234839617",
+    "commenter_id": "100053665772055",
+    "commenter_url": "https://facebook.com/profile.php?id=100053665772055&groupid=2754249271464148&refid=18&__tn__=R",
+    "commenter_name": "Trần Hoàng",
+    "commenter_meta": None,
+    "comment_text": "Em là sv muốn mua laptop dưới 15tr để học vào chs game mong mn tư vấn giúp",
+    "comment_time": datetime.datetime(2021,
+    11,
+    25,
+    15,
+    40,
+    18),
+    "comment_image": "https://scontent.xx.fbcdn.net/m1/v/t6/An_UvxJXg9tdnLU3Y5qjPi0200MLilhzPXUgxzGjQzUMaNcmjdZA6anyrngvkdub33NZzZhd51fpCAEzNHFhko5aKRFP5fS1w_lKwYrzcNLupv27.png?ccb=10-5&oh=00_AT-ZQ1k-_YLmP-XEG8emAgnLPOwDuVx2Mw0o5KOrCLX-Ww&oe=621E7E39&_nc_sid=55e238",
+    "comment_reactors": [
+      {
+        "name": "Công Bảo",
+        "link": "https://facebook.com/bao.cong.14493?groupid=2754249271464148",
+        "type": "like"
+      }
+    ],
+    "comment_reactions": {
+      "like": 1
+    },
+    "comment_reaction_count": 1,
+    "replies": [
+      {
+        "comment_id": "2887209041501503",
+        "comment_url": "https://facebook.com/2887209041501503",
+        "commenter_id": "100031435562976",
+        "commenter_url": "https://facebook.com/bao.cong.14493?groupid=2754249271464148&__tn__=R",
+        "commenter_name": "Công Bảo",
+        "commenter_meta": None,
+        "comment_text": "chơi game có nặng k em? cụ thể là game gì thế?",
+        "comment_time": datetime.datetime(2021,
+        11,
+        25,
+        15,
+        40,
+        21),
+        "comment_image": None,
+        "comment_reactors": [],
+        "comment_reactions": None,
+        "comment_reaction_count": None
+      },
+      {
+        "comment_id": "2887359924819748",
+        "comment_url": "https://facebook.com/2887359924819748",
+        "commenter_id": "100053665772055",
+        "commenter_url": "https://facebook.com/profile.php?id=100053665772055&groupid=2754249271464148&__tn__=R",
+        "commenter_name": "Trần Hoàng",
+        "commenter_meta": None,
+        "comment_text": "Công Bảo liên minh ,pu mobile thôi anh",
+        "comment_time": datetime.datetime(2021,
+        11,
+        25,
+        15,
+        40,
+        21),
+        "comment_image": "https://scontent.xx.fbcdn.net/m1/v/t6/An_UvxJXg9tdnLU3Y5qjPi0200MLilhzPXUgxzGjQzUMaNcmjdZA6anyrngvkdub33NZzZhd51fpCAEzNHFhko5aKRFP5fS1w_lKwYrzcNLupv27.png?ccb=10-5&oh=00_AT-ZQ1k-_YLmP-XEG8emAgnLPOwDuVx2Mw0o5KOrCLX-Ww&oe=621E7E39&_nc_sid=55e238",
+        "comment_reactors": [
+          {
+            "name": "Công Bảo",
+            "link": "https://facebook.com/bao.cong.14493?groupid=2754249271464148",
+            "type": "like"
+          }
+        ],
+        "comment_reactions": {
+          "like": 1
+        },
+        "comment_reaction_count": 1
+      },
+      {
+        "comment_id": "2888420338047040",
+        "comment_url": "https://facebook.com/2888420338047040",
+        "commenter_id": "100031435562976",
+        "commenter_url": "https://facebook.com/bao.cong.14493?groupid=2754249271464148&__tn__=R",
+        "commenter_name": "Công Bảo",
+        "commenter_meta": None,
+        "comment_text": "Trần Hoàng check inbox nhé. Mình gửi bạn mã tham khảo",
+        "comment_time": datetime.datetime(2021,
+        11,
+        25,
+        15,
+        40,
+        22),
+        "comment_image": None,
+        "comment_reactors": [],
+        "comment_reactions": None,
+        "comment_reaction_count": None
+      },
+      {
+        "comment_id": "2888773531345054",
+        "comment_url": "https://facebook.com/2888773531345054",
+        "commenter_id": "100004764969661",
+        "commenter_url": "https://facebook.com/O00000000001?groupid=2754249271464148&__tn__=R",
+        "commenter_name": "Hà Thúc Liễn",
+        "commenter_meta": None,
+        "comment_text": "Công Bảo rep minh vs",
+        "comment_time": datetime.datetime(2021,
+        11,
+        25,
+        15,
+        40,
+        22),
+        "comment_image": None,
+        "comment_reactors": [],
+        "comment_reactions": None,
+        "comment_reaction_count": None
+      },
+      {
+        "comment_id": "2889572744598466",
+        "comment_url": "https://facebook.com/2889572744598466",
+        "commenter_id": "100042072495471",
+        "commenter_url": "https://facebook.com/ngocvinh.tran.3152?groupid=2754249271464148&__tn__=R",
+        "commenter_name": "Trần Ngọc Vinh",
+        "commenter_meta": None,
+        "comment_text": "Trần Hoàng check ib b",
+        "comment_time": datetime.datetime(2021,
+        11,
+        25,
+        15,
+        40,
+        22),
+        "comment_image": None,
+        "comment_reactors": [],
+        "comment_reactions": None,
+        "comment_reaction_count": None
+      }
+    ]
+  }
+]

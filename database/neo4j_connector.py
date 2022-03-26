@@ -2,7 +2,7 @@ from neo4j import GraphDatabase
 
 from config import Config
 from models.node import Node
-from models.relation import Relation
+from models.relation import Relation, CommentRel
 
 
 class Neo4jConnector:
@@ -50,6 +50,26 @@ class Neo4jConnector:
                     query_string += f" SET r.{prop}={prop_value}"
                 else:
                     query_string += f" SET r.{prop}='{prop_value}'"
+            tx.run(query_string)
+        self.make_query(insert_func)
+
+    def insert_comment_relation(self, rel: CommentRel):
+        def insert_func(tx):
+            query_string = "MERGE (n: User {node_id:" + str(rel.user_id) + "}) " \
+                           "MERGE (n1: Comment {node_id:" + str(rel.comment_id) + "}) " \
+                           "MERGE (n2: Post {node_id:" + str(rel.post_id) + "}) " \
+                           "MERGE (n) -[r:" + str(rel.user_comment_cls) + "] -> (n1) " \
+                           "MERGE (n1) -[r:" + str(rel.comment_post_cls) + "] -> (n2) "
+            tx.run(query_string)
+        self.make_query(insert_func)
+
+    def insert_reply_relation(self, rel: CommentRel):
+        def insert_func(tx):
+            query_string = "MERGE (n: User {node_id:" + str(rel.user_id) + "}) " \
+                           "MERGE (n1: Comment {node_id:" + str(rel.comment_id) + "}) " \
+                           "MERGE (n2: Comment {node_id:" + str(rel.post_id) + "}) " \
+                           "MERGE (n) -[r:" + str(rel.user_comment_cls) + "] -> (n1) " \
+                           "MERGE (n1) -[r:" + str(rel.comment_post_cls) + "] -> (n2) "
             tx.run(query_string)
         self.make_query(insert_func)
 
